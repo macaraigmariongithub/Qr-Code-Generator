@@ -1,0 +1,19 @@
+.container{
+    max-width: 96rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+.about-title{
+    font-size: 2rem;
+    color: #f3f3f3;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-description p{
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    color: #f3f3f3;
+    text-align: justify;
+}
